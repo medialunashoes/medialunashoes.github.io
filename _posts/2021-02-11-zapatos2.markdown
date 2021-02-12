@@ -1,0 +1,20 @@
+---
+title:  "Nuevo Zapato"
+subtitle: "slogan......"
+author: "Wferr"
+avatar: "img/authors/wferr.png"
+image: "img/zapato1.png"
+date:   2021-02-11 12:12:12
+---
+
+### Descripcion
+
+### colores
+
+- Color rosa
+
+![](img/f.jpg)
+
+- Color pato
+
+![](img/a.jpg)
